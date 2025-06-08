@@ -1,0 +1,9 @@
+1. Create a new branch called feature-authentication.
+
+2. Create another branch called feature-logging based on main.
+
+3. Switch between the branches using both git checkout and git switch.
+
+4. Make changes in feature-authentication and commit them.
+
+5. Switch to feature-logging and ensure changes from feature-authentication are not present.
